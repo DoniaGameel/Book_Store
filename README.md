@@ -122,7 +122,7 @@ Separated figures just to be readable
 
 ![My Image](imgs/Schema.jpg)
 
-## 📑 DataBase Restrictions <a name = "restrictions"></a>
+## 🔒 DataBase Restrictions <a name = "restrictions"></a>
 
 **-Username and email are unique for each user and 
 admin.**
