@@ -15,7 +15,7 @@
 - [✍️ Contributors](#contributors)
 - [📑 Er Diagram](#er)
 - [📑 DataBase Schema](#schema)
-- [📑 DataBase Restrictions](#restrictions)
+- [🔒 DataBase Restrictions](#restrictions)
 
 </details>
 
