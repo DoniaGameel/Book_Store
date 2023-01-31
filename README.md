@@ -13,9 +13,9 @@
 - [📷 ScreenShots](#screenshots)
 - [📂 Features](#features)
 - [✍️ Contributors](#contributors)
-- [📑 Er Diagram](#ER)
+- [📑 Er Diagram](#er)
 - [📑 DataBase Schema](#schema)
-- [📑 DataBase Restrictions](#Restrictions)
+- [📑 DataBase Restrictions](#restrictions)
 
 </details>
 
@@ -110,19 +110,19 @@
     
 </details>
 
-## 📑 ER Diagram <a name = "ER"></a>
+## 📑 ER Diagram <a name = "er"></a>
 
 ![My Image](imgs/ER_1.jpg)
 
 ![My Image](imgs/ER_2.jpg)
 
-Two figures just to be readable
+Separated figures just to be readable
 
 ## 📑 DataBase Schema <a name = "schema"></a>
 
 ![My Image](imgs/Schema.jpg)
 
-## 📑 DataBase Restrictions <a name = "Restrictions"></a>
+## 📑 DataBase Restrictions <a name = "restrictions"></a>
 
 **-Username and email are unique for each user and 
 admin.**
