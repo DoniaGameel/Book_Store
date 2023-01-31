@@ -13,9 +13,9 @@
 - [📷 ScreenShots](#screenshots)
 - [📂 Features](#features)
 - [✍️ Contributors](#contributors)
-- [✍️ Er Diagram](#ER)
-- [✍️ DataBase Schema](#schema)
-- [✍️ DataBase Restrictions](#Restrictions)
+- [📑 Er Diagram](#ER)
+- [📑 DataBase Schema](#schema)
+- [📑 DataBase Restrictions](#Restrictions)
 
 </details>
 
