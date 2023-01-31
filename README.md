@@ -13,10 +13,9 @@
 - [📷 ScreenShots](#screenshots)
 - [📂 Features](#features)
 - [✍️ Contributors](#contributors)
-- [📑 ER Diagram](#ER)
-- [📑 Data Base Schema](#schema)
-- [📑 Data Base Restrictions](#Restrictions)
-
+- [✍️ Er Diagram](#ER)
+- [✍️ DataBase Schema](#schema)
+- [✍️ DataBase Restrictions](#Restrictions)
 
 </details>
 
@@ -111,23 +110,14 @@
     
 </details>
 
-<details>
-
 ## 📑 ER Diagram <a name = "ER"></a>
 
 
-</details>
-
-<details>
-
-## 📑 Data Base Schema <a name = "schema"></a>
+## 📑 DataBase Schema <a name = "schema"></a>
 
 
-</details>
 
-<details>
-
-## 📑 Data Base Restrictions <a name = "Restrictions"></a>
+## 📑 DataBase Restrictions <a name = "Restrictions"></a>
 
 -Username and email are unique for each user and 
 admin. 
@@ -152,8 +142,6 @@ price.
 
 -If a user offered a book to borrow he will specify the 
 period the other user will take the book for.
-</details>
-
 
 ## ✍️ Contributors <a name = "contributors"></a>
 
