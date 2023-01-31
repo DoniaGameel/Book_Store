@@ -119,29 +119,29 @@
 
 ## 📑 DataBase Restrictions <a name = "Restrictions"></a>
 
--Username and email are unique for each user and 
-admin. 
+**-Username and email are unique for each user and 
+admin.**
 
--The tuple of a book stores only one version of the 
+**-The tuple of a book stores only one version of the 
 book that is added by a certain user. If another user 
-added the book I will consider it as another instance.
+added the book I will consider it as another instance.**
 
--Each book has one category. 
+**-Each book has one category.** 
 
--There are no two seminars on the same date with the 
-same topic name.
+**-There are no two seminars on the same date with the 
+same topic name.**
 
--A publisher or a shipping company can have many 
+**-A publisher or a shipping company can have many 
 addresses and many phone numbers as it has several 
-branches.
+branches.**
 
--The book has only one author and one publisher. 
+**-The book has only one author and one publisher.** 
 
--If a user offered a book to buy he will specify the 
-price.
+**-If a user offered a book to buy he will specify the 
+price.**
 
--If a user offered a book to borrow he will specify the 
-period the other user will take the book for.
+**-If a user offered a book to borrow he will specify the 
+period the other user will take the book for.**
 
 ## ✍️ Contributors <a name = "contributors"></a>
 
