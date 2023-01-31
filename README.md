@@ -112,15 +112,15 @@
 
 ## 📑 ER Diagram <a name = "ER"></a>
 
-![My Image](imgs/ER_1)
+![My Image](imgs/ER_1.jpg)
 
-![My Image](imgs/ER_2)
+![My Image](imgs/ER_2.jpg)
 
 Two figures just to be readable
 
 ## 📑 DataBase Schema <a name = "schema"></a>
 
-![My Image](imgs/Schema)
+![My Image](imgs/Schema.jpg)
 
 ## 📑 DataBase Restrictions <a name = "Restrictions"></a>
 
