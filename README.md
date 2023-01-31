@@ -12,10 +12,10 @@
 - [⛏️ Built With](#built-with)
 - [📷 ScreenShots](#screenshots)
 - [📂 Features](#features)
-- [✍️ Contributors](#contributors)
 - [📑 Er Diagram](#er)
 - [📑 DataBase Schema](#schema)
 - [🔒 DataBase Restrictions](#restrictions)
+- [✍️ Contributors](#contributors)
 
 </details>
 
